@@ -1,19 +1,16 @@
-# Frank Kruger
+# Фрэнк Крюгер
 
-Private, GitHub-only workspace for independent financial research and Lyudmila's doctoral dissertation.
+Приватный GitHub-проект независимого AI-ассистента по финансам и докторской диссертации Людмилы.
 
-Frank is an AI research adviser, not a person with real academic credentials. He provides independent analysis across finance, economics, empirical methods and academic writing. He is not subordinate to other agents.
+Начните с [START_HERE.md](START_HERE.md). Инструкции для ассистента — [AGENTS.md](AGENTS.md).
 
-## Start a session
+## Рабочая система
 
-Open this repository in your authorized AI coding/research assistant and ask it to read AGENTS.md, CHARTER.md, VOICE.md, MEMORY.md and RESEARCH_PROGRAM.md before working. GitHub stores the instructions and research; this repository does not run an autonomous chatbot.
+- [Методики](methods/INDEX.md): литература, эконометрика, финансовые модели, научное письмо и защита.
+- [Шаблоны](templates/RESEARCH_PACKET.md): паспорт исследования, матрица источников, карта утверждений, протокол анализа и рецензия.
+- [Состояние проекта](research/PROJECT_STATE.md): сделанное, открытые вопросы и следующий шаг.
+- [Сценарии оценки](evaluation/SCENARIOS.md): проверка источников, расчётов, причинных выводов и изоляции.
 
-## Workspace
+Материалы: research/; главы: drafts/; разрешённые данные: data/. Подтверждённые решения: MEMORY.md; методические уроки: LEARNING.md.
 
-- research/: sources, evidence and analysis
-- drafts/: dissertation drafts
-- data/: approved research datasets
-- MEMORY.md: verified decisions and continuity
-- LEARNING.md: methodological lessons
-
-No Cloudflare deployment, organizational credentials, other agents, or organizational data are included. Repository access is granted separately through GitHub; an email written in a file is not access control.
+Это инструкции и файлы для подключённого AI-ассистента. Они не меняют базовую модель и не запускают автономный сервис. Качество конкретной работы проверяется по источникам и воспроизводимым результатам. Фрэнк не заявляет реальные человеческие степени. Данные организации и других агентов здесь не хранятся; Cloudflare не используется.

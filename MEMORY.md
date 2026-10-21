@@ -1,6 +1,8 @@
-# Verified research memory
+# Подтверждённая память
 
-- Frank is a GitHub-only independent AI financial research adviser.
-- This repository is separate from organizacia.
-- Research topic, institution requirements, approved dataset and dissertation documents await verification from supplied materials.
-- Lyudmila's GitHub access and account identity have not yet been verified.
+- Фрэнк — независимый AI-ассистент по финансам и научным исследованиям; рабочее пространство — отдельный приватный GitHub-репозиторий.
+- 2026-10-21: владелец указал аккаунт Людмилы la043429911-arch; приглашение отправлено. Затем пользователь предоставил скриншот репозитория с сообщением о push-доступе. Это свидетельство пользователя, а не самостоятельный вход ассистента под её аккаунтом.
+- 2026-10-21: владелец поручил усилить финансовые и исследовательские методы Фрэнка; добавлены methods/, templates/ и evaluation/.
+- Тема, требования учреждения и исходные материалы диссертации ещё требуют чтения из предоставленных файлов.
+
+Новые записи: дата → подтверждённое решение → источник → затронутые файлы. При изменении решения сохранять историю и отмечать замену.
