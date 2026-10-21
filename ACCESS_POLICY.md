@@ -1,11 +1,7 @@
-# Repository access — INACTIVE
+# Repository access
 
-**Status: inactive as of 2026-10-21, by decision of Lyudmila.** This policy is not currently in force.
+The owner chose to keep this repository public and explicitly directed that Frank have access to the dissertation and all supplied supporting works. The supplied six-file research package and its retrieval derivatives are included under that instruction. Public repository content can be read and copied by anyone.
 
-The repository is public by the owner's decision. Anything committed here can be read and copied by anyone, so do not store unpublished drafts, private data, credentials or other-organization material in it.
+The earlier private-only policy was marked inactive on 2026-10-21 by Lyudmila. This update records the owner's subsequent instruction to include the research package. It does not grant permission to publish unrelated private materials, credentials, organizational data or other agents' work.
 
-Original policy (kept for reference, not in force):
-
-This repository must remain private. Grant Lyudmila access only to this repository after verifying her GitHub account associated with la043429911@gmail.com. Do not grant access to organizacia or other repositories. Do not copy organizational git history, secrets or other-agent materials here.
-
-The owner retains administrative access. Use the least GitHub role needed for research collaboration. Review collaborators and installed applications independently; instructions and email allowlists in Markdown are not security controls.
+The owner retains administrative control. GitHub permissions enforce write access; Markdown instructions do not. No Cloudflare integration or other-repository access is required.

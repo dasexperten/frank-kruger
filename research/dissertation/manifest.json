@@ -1,0 +1,54 @@
+{
+  "source": "Lyudmila email package 2026-10-21; forwarded guidance 2026-10-18",
+  "limitations": "Text derivatives flatten tables and may omit drawing text, equations or tracked changes. Check original before numerical or quotation use. No scientific claims independently verified.",
+  "files": [
+    {
+      "original_filename": "Шаблон плана научной статьи.docx",
+      "original": "research/dissertation/originals/article-plan.docx",
+      "text": "research/dissertation/sources/article-plan.txt",
+      "bytes": 14041,
+      "sha256": "f536dab4399e23590f9c21064a1ee1517406f003d82385a5ce013032ac7087fc",
+      "text_sha256": "3dca3e6d9e4b7beef29324318db28b820edbcd65bd3ece0d0be563a50ae5598f"
+    },
+    {
+      "original_filename": "Структура научной статьи.docx",
+      "original": "research/dissertation/originals/article-structure.docx",
+      "text": "research/dissertation/sources/article-structure.txt",
+      "bytes": 26026,
+      "sha256": "538048f56909f65a8144f6010b010abedbbb9e2a0649e3450f69c337a918b902",
+      "text_sha256": "02241b7b9b839346a6b7216612fb4adeb6896a653015b4298eb62f58e19b8661"
+    },
+    {
+      "original_filename": "Образец статьи.pdf",
+      "original": "research/dissertation/originals/article-example.pdf",
+      "text": "research/dissertation/sources/article-example.txt",
+      "bytes": 335268,
+      "sha256": "c2ea5994632184bdf5c9fdc5ea7ecfe81526aeea185c1c6a2e682442421d0997",
+      "text_sha256": "26b0479b0ac01252dafdc011a93feea91f58d4a53aa4e19da10765bf9a2081cb"
+    },
+    {
+      "original_filename": "Как написать научную статью по гуманитарным наукам.docx",
+      "original": "research/dissertation/originals/article-writing.docx",
+      "text": "research/dissertation/sources/article-writing.txt",
+      "bytes": 16869,
+      "sha256": "c9555fa40ac90b7660581b80c5bc431143b56a6f8a22da955933f05264f2848c",
+      "text_sha256": "5043e9c590c32158a4d3c1115e8f337611c82df33e6c87a1aff0f5e8acc3d870"
+    },
+    {
+      "original_filename": "Короткина-И.Б.-Академическое-письмо.pdf",
+      "original": "research/dissertation/originals/academic-writing.pdf",
+      "text": "research/dissertation/sources/academic-writing.txt",
+      "bytes": 1834835,
+      "sha256": "8b98995d0a7a028db33929aa8fbd53f40472b32724f14d8f577478cb201d56fc",
+      "text_sha256": "5b48e0c5bd95eb369a5fcfe82edc7b38654f54d02a770165d5cd4a2499cf1e2f"
+    },
+    {
+      "original_filename": "концепция диссертации_НОВАЯ_07.09.26.docx",
+      "original": "research/dissertation/originals/dissertation-concept-2026-09-07.docx",
+      "text": "research/dissertation/sources/dissertation-concept-2026-09-07.txt",
+      "bytes": 7714228,
+      "sha256": "2b0778a6f37024e35fdeec4f6e2be167221357fba9d31ee02e15c293796c8332",
+      "text_sha256": "2fd2efc7f2df313816d4d33b729e60524d7905b6f5a5513630266dd27463cad2"
+    }
+  ]
+}

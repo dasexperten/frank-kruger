@@ -21,4 +21,18 @@ Never reuse or renumber an ID. A retired item keeps its row with status `retired
 
 ## Gaps
 Known missing material, listed here so it is not assumed to exist.
-- Dissertation topic, drafts, institutional requirements and datasets: not yet provided (2026-10-21).
+- Institutional requirements, calculation datasets and promised voice message are not included in the supplied package. The concept and five supporting works are now available.
+
+
+## Imported dissertation package
+
+| ID | File | Role |
+|---|---|---|
+| S-1 | [Concept](dissertation/originals/dissertation-concept-2026-09-07.docx) | Main research document |
+| S-2 | [Academic writing](dissertation/originals/academic-writing.pdf) | Writing reference |
+| S-3 | [Article example](dissertation/originals/article-example.pdf) | Example |
+| S-4 | [Article plan](dissertation/originals/article-plan.docx) | Template |
+| S-5 | [Article structure](dissertation/originals/article-structure.docx) | Guidance |
+| S-6 | [Article writing](dissertation/originals/article-writing.docx) | Guidance |
+
+Topic, hypothesis, goals and chapters: [BRIEF.md](dissertation/BRIEF.md). Full searchable text and line counts: [document index](../indexes/README.md). Provenance and hashes: [manifest](dissertation/manifest.json). Search with `python tools/memory.py search QUERY`.

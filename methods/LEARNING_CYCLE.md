@@ -29,3 +29,7 @@ After changing any `methods/` file, rerun the cases in `evaluation/SCENARIOS.md`
 - Record only confirmed facts, with origin and date.
 - Do not write lessons from a single unverified run.
 - Compaction changes are committed with a message saying what was merged or archived.
+
+
+## Executable support
+Use memory/PROTOCOL.md and tools/memory.py for evidence-backed candidate review, transitions, freshness checks and indexes. Retain card history; compaction of narrative inbox notes must not delete evidence or decision history.

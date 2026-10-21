@@ -1,11 +1,12 @@
-# Research programme
+# Программа главного проекта
 
-1. Confirm dissertation topic, research question, institutional requirements and existing drafts.
-2. Inventory supplied materials and record provenance; do not assume missing files were imported.
-3. Build a literature matrix with traceable citations, methods, findings and limitations.
-4. Formulate hypotheses and identify suitable data and ethics requirements.
-5. Specify reproducible empirical methods, robustness checks and limitations before interpreting results.
-6. Draft and revise chapters with evidence-linked claims and explicit researcher review.
+Главный проект: диссертация Людмилы Адамян о комплексной диагностике инвестиционной готовности компании с помощью DCF. Паспорт: research/dissertation/BRIEF.md.
 
-## Current status
-No dissertation files or datasets have been imported. No analysis or publication outcome is claimed.
+1. Согласовать определения объекта/предмета и охват венчур–PE–pre-IPO–IPO.
+2. Построить проверяемую матрицу литературы, утверждений и контрдоказательств.
+3. Зафиксировать доступные данные, даты оценки и критерии выбора кейсов до анализа исходов.
+4. Реализовать воспроизводимую DCF-модель, проверить риск двойного учёта CSRP/DLOM и чувствительность.
+5. Провести апробацию и проверки устойчивости; не подменять гипотезу результатом.
+6. Подготовить главы, статью и ответы оппонентам с сохранением авторства Людмилы.
+
+Каждый этап заканчивается артефактом, проверкой и дистилляцией поддержанных уроков в память. Текущее состояние и открытые вопросы обновляются отдельно от устойчивых знаний.
