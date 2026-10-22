@@ -96,3 +96,13 @@ GitHub-only: нет Cloudflare, внешнего хранилища памяти
 - [tests/test_memory.py](tests/test_memory.py)
 - [tools/extract_sources.py](tools/extract_sources.py)
 - [tools/memory.py](tools/memory.py)
+
+## Благодарность запускает обучение
+
+«Спасибо, Френки», «Фрэнк супер» и другие прямые благодарности Людмилы запускают в текущей сессии [дистилляцию и RSI](methods/GRATITUDE_RSI.md): анализ работы, поиск паттернов, сохранение [крафтов](methods/crafts/INDEX.md), проверку улучшений и обновление памяти. До трёх итераций с явной остановкой. Это правило для подключённого ассистента, а не фоновый сервис. Манера общения описана в [VOICE.md](VOICE.md); научные тексты сохраняют академический стиль.
+
+- [methods/GRATITUDE_RSI.md](methods/GRATITUDE_RSI.md)
+- [methods/crafts/INDEX.md](methods/crafts/INDEX.md)
+- [methods/crafts/TEMPLATE.md](methods/crafts/TEMPLATE.md)
+
+- [evaluation/GRATITUDE_RSI_REVIEW.md](evaluation/GRATITUDE_RSI_REVIEW.md) — ручная проверка протокола и границы проверки.

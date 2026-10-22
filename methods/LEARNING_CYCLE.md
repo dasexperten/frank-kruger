@@ -33,3 +33,6 @@ After changing any `methods/` file, rerun the cases in `evaluation/SCENARIOS.md`
 
 ## Executable support
 Use memory/PROTOCOL.md and tools/memory.py for evidence-backed candidate review, transitions, freshness checks and indexes. Retain card history; compaction of narrative inbox notes must not delete evidence or decision history.
+
+## Automatic session trigger
+Every new direct expression of gratitude or praise from Lyudmila invokes methods/GRATITUDE_RSI.md immediately in the current assistant turn. It adds pattern review, reusable crafts and up to three evidence-tested recursive refinement iterations. Gratitude never bypasses the evidence gate above. Record each event once; do not loop on the assistant's own acknowledgements.
